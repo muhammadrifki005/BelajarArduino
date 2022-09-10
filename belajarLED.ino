@@ -1,0 +1,106 @@
+int pinLed = 13;
+
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(pinLed, OUTPUT); // Menyiapkan LED siap bekerja
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(750); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(750); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(750); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(750); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(750); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(750); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(750); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(750); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, LOW); // Mematikan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+  digitalWrite(pinLed, HIGH); // Menyalakan LED Board Arduino
+  delay(50); // 1000 = 1 detik (jeda)
+}
